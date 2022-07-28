@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/combat-losses/static/css/main.17d50ca9.css",
+    "main.js": "/combat-losses/static/js/main.c4baa87e.js",
+    "static/media/Inter-Bold.woff2": "/combat-losses/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Regular.woff2": "/combat-losses/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/Benzin_Bold.woff2": "/combat-losses/static/media/Benzin_Bold.a905c952de50d93ead6b.woff2",
+    "index.html": "/combat-losses/index.html",
+    "main.17d50ca9.css.map": "/combat-losses/static/css/main.17d50ca9.css.map",
+    "main.c4baa87e.js.map": "/combat-losses/static/js/main.c4baa87e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d50ca9.css",
+    "static/js/main.c4baa87e.js"
+  ]
+}
