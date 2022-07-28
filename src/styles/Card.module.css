@@ -1,0 +1,41 @@
+
+
+.item {
+    display: flex;
+    align-items: center;
+    flex: 1 0 30%;
+    justify-content: start;
+    font-size: 20px;
+    padding: 1rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /*height: 100%;*/
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    flex: 0 0 40%;
+    padding: 1rem;
+}
+
+.total {
+    font-family: Benzin, sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.today {
+    font-family: Inter, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.text {
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+}

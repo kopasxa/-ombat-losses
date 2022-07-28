@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    height: 10vh;
+    align-items: center;
+    font-size: 1.5rem;
+    font-family: Benzin, sans-serif;
+    font-weight: 700;
+}
+
+.arrow {
+    cursor: pointer;
+    transition: .2s linear;
+}
+
+.arrow:hover {
+    transform: scale(1.1);
+}
+
+.img {
+    width: 64px;
+    height: 64px;
+}
